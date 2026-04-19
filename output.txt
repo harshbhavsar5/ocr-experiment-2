@@ -1,0 +1,15 @@
+Pred: astt bahhh tttt
+Actual: assuredness " Bella Bella Marie " ( Parlophone ) , a lively song that changes tempo mid-way .
+------
+Pred: t tttt ttt
+Actual: I don't think he will storm the charts with this one , but it 's a good start .
+------
+Pred: e  eeee ttttt 
+Actual: CHRIS CHARLES , 39 , who lives in Stockton-on-Tees , is an accountant .
+------
+Pred: ttttt tttt 
+Actual: Become a success with a disc and hey presto ! You 're a star ... . Rolly sings with
+------
+Pred: et ee 
+Actual: Tolch , as he is known in Tin Pan Alley , likes songs with a month in the title . He wrote
+------

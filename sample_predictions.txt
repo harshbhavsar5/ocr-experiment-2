@@ -1,0 +1,40 @@
+Image Index: 0
+Ground Truth: It was a splendid interpretation of the
+Model Output:  .
+----------------------------------------
+Image Index: 1
+Ground Truth: sympathetic C O . Paul Daneman gave another
+Model Output:  .
+----------------------------------------
+Image Index: 2
+Ground Truth: part . The rest of the cast were well chosen ,
+Model Output:  .
+----------------------------------------
+Image Index: 3
+Ground Truth: with James Maxwell making a fine job of the
+Model Output:  .
+----------------------------------------
+Image Index: 4
+Ground Truth: " The Little Key . "
+Model Output:  .
+----------------------------------------
+Image Index: 5
+Ground Truth: first-class performance last night as a
+Model Output:  .
+----------------------------------------
+Image Index: 6
+Ground Truth: wartime naval officer in the B B C's
+Model Output:  .
+----------------------------------------
+Image Index: 7
+Ground Truth: the imagination which asked the viewer to
+Model Output:  .
+----------------------------------------
+Image Index: 8
+Ground Truth: " Britain - Blood , Sweat , and Tears ... Plus
+Model Output:  .
+----------------------------------------
+Image Index: 9
+Ground Truth: The play was no more than a figment of
+Model Output:  .
+----------------------------------------
